@@ -18,7 +18,7 @@ body {
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace, serif;
   text-rendering: geometricPrecision;
-  background: #f9f9f9;
+  background: #fcfcfc;
   color: #222;
 }
 
@@ -37,12 +37,13 @@ section {
 }
 
 article {
-  margin-left: 220px;
+  margin-left: 210px;
   border-bottom: 2px dashed #eee;
   padding: 20px;
+  padding-left: 30px;
 
   &:nth-child(2) {
-    padding-top: 25vh;
+    padding-top: 20vh;
   }
 
   &:last-child {
