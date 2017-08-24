@@ -16,7 +16,7 @@ You can read about how the AI works in the post linked above. Here's a snippet a
 
 From this point, I forked the code and set my mind to hacking how the pieces were drawn, so I could have multiple different looks and feels.
 
-![Tetris Pieces, on display.](./images/tetris-pieces.png)
+![Tetris Pieces, on display.](./images/tetris-pieces-1.png)
 
 These are, from left to right. 
 
@@ -29,4 +29,5 @@ These are, from left to right.
 All in all, the project was definitely a good experience. When you have to plow into someone elses code, with no background its funny what you can learn. Finding and editing the code that renders the tetris pieces to the canvas was a little tricky, but ultimately very rewarding.
 
 ➶ [Tetris Pieces in Action](http://tholman.com/tetris-pieces)<br>
+➶ [Tetris Pieces source on Github](https://github.com/tholman/tetris-pieces)<br>
 ➶ [Tetris Pieces on Electric Object](http://tholman.com/tetris-pieces)
