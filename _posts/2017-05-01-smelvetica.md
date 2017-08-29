@@ -21,4 +21,4 @@ With the fonts completed, the remaining work was to wrap it all up with a nice [
 The [installation](https://github.com/tholman/smelvetica#how-do-i-install-it) ended up being the most devious part of the prank in the end, since it would install on the system it makes it really difficult for anyone to understand why everything looks just that little bit wrong.
 
 ➶ [Smelvetica website & examples](http://tholman.com/smelvetica)<br>
-➶ [Smelvetica source and installation instructions](https://github.com/tholman/smelvetica)<br>
+➶ [Smelvetica source and installation instructions](https://github.com/tholman/smelvetica)

@@ -30,7 +30,7 @@ Another little piece, which I felt gave it that little bit of extra "officey" cr
 
 Building a slackbot was a fun way to spend a day or two, honestly, the amount of articles and support docs out there makes it one of those technical, yet quickly rewarding projects!
 
-➶ [Office simulator source and installation instructions](https://github.com/tholman/office-simulator)
+➶ [Office Simulator source and installation instructions](https://github.com/tholman/office-simulator)
 
 
 
