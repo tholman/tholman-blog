@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title:  Ascii Morph
-categories: code
+category: code
+type: serious
 ---
 
 *A look into morphing one SVG image into another.*

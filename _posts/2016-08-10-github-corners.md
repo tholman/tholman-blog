@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
 title:  Github Corners
-categories: code
+category: code
+type: serious
 ---

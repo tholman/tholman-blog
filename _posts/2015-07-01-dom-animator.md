@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
 title:  DOM animator
-categories: code
+category: code
+type: serious
 ---

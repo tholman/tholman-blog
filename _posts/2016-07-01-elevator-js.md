@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
 title:  Elevator JS
-categories: code
+category: code
+type: joke
 ---

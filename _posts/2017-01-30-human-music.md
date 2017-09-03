@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title:  Human Music
-categories: audio
+category: audio
+type: audio
 ---
 
 *This is earth radio, and now here's human music.*

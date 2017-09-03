@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: default
 title:  Smelvetica
-categories: design
+category: design
+type: joke
 ---
 
 *"If you really hate someone, teach them to recognize bad kerning" ~ XKCD*
 
-Smelvetica is an experimentation in taking one of the worlds most beloved fonts, and turning it into a morbid monstrocity.
+[Smelvetica](http://tholman.com/smelvetica) is an experimentation in taking one of the worlds most beloved fonts, and turning it into a morbid monstrocity.
 
 This project began by pulling the original "Helvetica" font from my system files, and making a copy of it. From there I opened it in [FontForge](https://fontforge.github.io/en-US/), which is a brilliant open source font editor.
 

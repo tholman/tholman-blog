@@ -1,12 +1,13 @@
 ---
 layout: default
 title:  Tetris Pieces
-categories: code
+category: code
+type: serious
 ---
 
 *A couple of months ago, I did a little commission work for Electric Object, in the form of Abstract Clocks. While working on the clocks, I ended up creating a bunch of different proof of concepts and directions. This was one of them.*
 
-The initial idea for "Tetris pieces" was to create a bunch of small video game demo's that would use AI to play on your wall, I had looked at snake, a brick breaker game and a maze solver. Ultimately, I found myself drawn to the different renderings of Tetris games. It was so mezmerizing watching tetris play out automatically on the Electric Object, I had to stick with it.
+The initial idea for "[Tetris pieces](http://tholman.com/tetris-pieces)" was to create a bunch of small video game demo's that would use AI to play on your wall, I had looked at snake, a brick breaker game and a maze solver. Ultimately, I found myself drawn to the different renderings of Tetris games. It was so mezmerizing watching tetris play out automatically on the Electric Object, I had to stick with it.
 
 To begin the project, I began researching tetri's AI's, and immediately found one that was [absolutely perfect](https://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/) built by a very talented developer, [Yiyuan Lee](https://codemyroad.wordpress.com/author/leeyiyuan/). 
 

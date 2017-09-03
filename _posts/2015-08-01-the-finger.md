@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
 title:  The Finger
-categories: code
+category: code
+type: joke
 ---

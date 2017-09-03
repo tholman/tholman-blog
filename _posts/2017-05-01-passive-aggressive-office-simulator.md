@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title:  Passive Aggressive Office Simulator
-categories: code
+category: code
+type: joke
 ---
 
 *"Remember everybody, the crisper is for green vegetables only, anything else found in it will be thrown out at the end of the day." ~ Passive aggressive post-it note.*

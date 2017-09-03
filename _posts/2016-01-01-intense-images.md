@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
 title:  Intense Images
-categories: code
+category: code
+type: serious
 ---

@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: default
 title:  OK, Get This
-categories: audio
+category: audio
+type: audio
+hidden: true
 ---
 
 *Things you probably didn't know about, in 5 minutes or less!*

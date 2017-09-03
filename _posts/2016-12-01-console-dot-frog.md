@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title:  Console Dot Frog
-categories: code
+category: code
+type: joke
 ---
 
 **

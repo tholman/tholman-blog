@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title:  Obnoxious dot CSS
-categories: code
+category: code
+type: joke
 ---
 
 *Animations for the strong of heart, but weak of mind.*

@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title:  Abstract Clocks
-categories: code
+category: code
+type: serious
 ---
 
 *I recently talked to Electric Object about building something on their platform for their [artists program](https://www.electricobjects.com/artists), this is what I came up with.*

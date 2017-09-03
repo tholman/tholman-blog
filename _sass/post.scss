@@ -10,6 +10,10 @@ p {
   font-size: 14px;
   line-height: 1.3em;
   margin-bottom: 25px;
+
+  &:last-child {
+    margin-bottom: 10px;
+  }
 }
 
 blockquote {
@@ -26,4 +30,23 @@ a {
 
 img {
   max-width: 100%;
+}
+
+.no-serious {
+  .serious {
+    display: none;
+  }
+}
+
+// no joke mate!
+.no-joke {
+  .joke {
+    display: none;
+  }
+}
+
+.no-audio {
+  .audio {
+    display: none;
+  }
 }

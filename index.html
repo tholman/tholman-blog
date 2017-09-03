@@ -3,5 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts %}
-  {% include post.html %}
+  {% unless post.hidden == true %}
+    {% include post.html %}
+  {% endunless %}
 {% endfor %}
