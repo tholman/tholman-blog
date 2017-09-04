@@ -2,7 +2,7 @@
 layout: default
 title:  Human Music
 category: audio
-type: audio
+type: joke
 ---
 
 *This is earth radio, and now here's human music.*
