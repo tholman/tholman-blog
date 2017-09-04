@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Fun.CSS
+title:  Fun dot CSS
 category: talk
 type: audio
 ---

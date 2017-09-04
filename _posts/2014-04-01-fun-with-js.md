@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Don't hate the player, hate the game
+title:  Having Fun with JS
 category: talk
 type: audio
 ---
