@@ -8,6 +8,7 @@ header {
   flex-direction: column;
   justify-content: center;
   text-align: right;
+  top: 0px;
 
   h1,
   h2 {
@@ -27,7 +28,10 @@ header {
     margin-bottom: -4px;
   }
 
-  i {
+  label {
+    cursor: pointer;
+    user-select: none;
+    font-style: italic;
     font-size: 13px;
   }
 
@@ -37,7 +41,8 @@ header {
   }
 
   input[type="checkbox"] {
-    margin-top: 3px;
+    cursor: pointer;
     vertical-align: top;
+    margin-top: 3px;
   }
 }

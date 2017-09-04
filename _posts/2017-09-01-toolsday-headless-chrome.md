@@ -5,8 +5,8 @@ category: code
 type: audio
 ---
 
-*Had the pleasure of speaking with Una Kravets & Chris Dhanaraj about Headless Chrome*
+*I had the pleasure of speaking with Una Kravets & Chris Dhanaraj about Headless Chrome*
 
-Toolsday has been a favorite podcast of mine since its conception, so was great to be a part of it, speaking about headless Chrome.
+[Toolsday](http://www.toolsday.io) has been a favorite podcast of mine since its conception, so it was great to be a part of it, speaking about Headless Chrome.
 
 ➶ [Podcast and shownotes](http://www.toolsday.io/episodes/headlesschrome.html)
