@@ -3,6 +3,7 @@ layout: default
 title:  The Versioning Show
 category: code
 type: audio
+hidden: true
 ---
 
 *The Versioning Show discusses the industry of the web from development to design, with some of the people making it happen today, and planning where it's headed in the next version.*

@@ -11,6 +11,6 @@ This recording was at Empire.JS, an amazingly welcoming conference, that was a j
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GYPhCw0tAVM" frameborder="0" allowfullscreen></iframe>
 
-➶ [Fun With JS on YouTube.](https://www.youtube.com/watch?v=GYPhCw0tAVM)
+➶ [Fun With JS on YouTube](https://www.youtube.com/watch?v=GYPhCw0tAVM)
 
 

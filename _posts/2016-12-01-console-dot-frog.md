@@ -17,7 +17,28 @@ So, here is a simple explaination. I think its supreme utility speaks for itself
 console.log("Boring.");
 ```
 
-```javascript
+```
 // And here is your output.
 Boring.
 ```
+
+And here is how `console.frog` can improve your life.
+
+```javascript
+// Here is happy you, logging some logs
+console.frog("Amazing!");
+```
+
+```
+// And here is your output.
+          _,-.     ------------
+  ,-. ,--'  o ) -(   Amazing!   )
+  \(,' '  ,,-'     ------------
+ ,-.\-.__,\\_
+ \(`--'    `\
+```
+
+Truly life changing.
+
+➶ [Console.Frog Webpage & Instructions](http://tholman.com/console-dot-frog/)<br>
+➶ [Console.Frog source on Github](https://github.com/tholman/console-dot-frog)

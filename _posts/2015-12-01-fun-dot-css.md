@@ -11,4 +11,4 @@ For this talk, I made my own presentation framework, that more or less exploded 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5HP6k43T0yM" frameborder="0" allowfullscreen></iframe>
 
-➶ [Fun.CSS on YouTube.](https://www.youtube.com/watch?v=5HP6k43T0yM)
+➶ [Watch Fun.CSS on YouTube](https://www.youtube.com/watch?v=5HP6k43T0yM)
