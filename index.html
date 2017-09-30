@@ -4,6 +4,16 @@ layout: default
 
 {% for post in site.posts %}
   {% unless post.hidden == true %}
+    
+    {% if forloop.index > 8 %}
+      <template class="{{post.type}}">
+    {% endif %}
+
     {% include post.html %}
+    
+    {% if forloop.index > 8 %}
+      </template>
+    {% endif %}
+
   {% endunless %}
 {% endfor %}
