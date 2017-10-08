@@ -13,5 +13,5 @@ The [Intense Images](http://tholman.com/intense-images/) library came out as par
 
 You can see it active in the image above, but I really recommend checking out the live demo, to get the full experience.
 
-➶ [Intense Images demo](http://tholman.com/intense-images/)
+➶ [Intense Images demo](http://tholman.com/intense-images/)<br>
 ➶ [Intense Images on GitHub](https://github.com/tholman/intense-images)
