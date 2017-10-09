@@ -1,0 +1,25 @@
+@media only screen and (max-width: 650px) {
+  header {
+    position: relative;
+    width: 100%;
+    border: 0px;
+    text-align: center;
+    height: auto;
+  }
+
+  .content {
+    padding-top: 10px;
+  }
+
+  .filters {
+    display: none;
+  }
+
+  .links {
+    margin-top: -10px;
+  }
+
+  article {
+    margin-left: 0px;
+  }
+}

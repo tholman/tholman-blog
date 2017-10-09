@@ -1,9 +1,10 @@
 header {
   border-right: 2px dashed #eee;
   position: fixed;
-  width: 210px;
+  width: 240px;
   height: 100%;
   padding-right: 30px;
+  padding-left: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -41,7 +42,7 @@ header {
     display: inline-block;
   }
 
-  input[type='checkbox'] {
+  input[type="checkbox"] {
     cursor: pointer;
     vertical-align: top;
     margin-top: 3px;

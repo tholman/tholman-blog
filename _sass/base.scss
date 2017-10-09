@@ -32,7 +32,7 @@ section {
 }
 
 .content {
-  max-width: 750px;
+  max-width: 760px;
   padding-top: 15vh;
   padding-bottom: 15vh;
   margin: auto;
@@ -40,16 +40,17 @@ section {
 
 // This is a weird way to hide the bottom posts border
 .under-padding {
-  margin-left: 210px;
+  margin-left: 240px;
   border-top: 2px solid #fcfcfc;
   margin-top: -2px;
 }
 
 article {
-  margin-left: 210px;
+  margin-left: 240px;
   border-bottom: 2px dashed #eee;
   padding: 20px;
   padding-left: 30px;
+  padding-right: 30px;
 
   &:last-child {
     border-bottom: 0px;
