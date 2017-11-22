@@ -29,6 +29,7 @@ h1 {
 section {
   overflow: scroll;
   height: 100%;
+  -webkit-overflow-scrolling: touch;
 }
 
 .content {
