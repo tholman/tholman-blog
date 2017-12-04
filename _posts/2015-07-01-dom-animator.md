@@ -13,5 +13,3 @@ DOM animator animates a small ASCII image within the code of the page, which wil
 
 ➶ [DOM Animator](http://tholman.com/dom-animator/)<br>
 ➶ [DOM Animator on GitHub](https://github.com/tholman/dom-animator)
-
-
