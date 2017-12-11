@@ -15,6 +15,6 @@ All I really wanted was a simple speed dial, and some motivational text. So that
 
 One pleasant surprise, was that the FireFox addon's use exactly the same api's as Chrome, and that there is a [whole documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) amongst browsers, about how to implement said extensions. Yay for standards!
 
-➶ [The extension on GitHub](https://github.com/tholman/what-have-you-made-today)
-➶ [Chrome install page](https://chrome.google.com/webstore/detail/new-tab-what-have-you-mad/pjifadilbibcjmmomhihbpggjamnpfim)
+➶ [The extension on GitHub](https://github.com/tholman/what-have-you-made-today)<br>
+➶ [Chrome install page](https://chrome.google.com/webstore/detail/new-tab-what-have-you-mad/pjifadilbibcjmmomhihbpggjamnpfim)<br>
 ➶ [FireFox install page](https://addons.mozilla.org/en-US/firefox/addon/what-have-you-made-today/)
