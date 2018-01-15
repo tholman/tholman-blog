@@ -17,6 +17,6 @@ The theme for the clocks came as a combination of the original circular clock fa
 
 You can read about how to understand each clock, on this little [web page](tholman.com/abstract-clocks/) ... some of them are a little trickier to get a handle on than the others, but ultimately learnable.
 
-➶ [Abstract Clocks Demo's & Instructions](tholman.com/abstract-clocks/)<br>
+➶ [Abstract Clocks Demo's & Instructions](http://tholman.com/abstract-clocks/)<br>
 ➶ [Abstract Clocks code on Github](https://github.com/tholman/abstract-clocks)<br>
 ➶ [Abstract Clocks on Electric Object](https://www.electricobjects.com/collections/246/abstract-clocks-by-tim-holman)
