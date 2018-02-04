@@ -13,11 +13,11 @@ The canvas is (was) fresh to the web, and there was (still is!) a lot of experim
 
 From that data, I decide certain things, "how dark is this", or "what color is this" and then made different renderings from that information. 
 
-![Concentrics](/images/concentrics-1.png)
+![Concentrics]({{site.url}}/images/concentrics-1.png)
 
 The custom controls here are using [DAT.GUI](http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage), which is a great utility to use when building projects that have lots of workable variables.
 
-![Rasterizer.](/images/rasterizer-1.png)
+![Rasterizer.]({{site.url}}/images/rasterizer-1.png)
 
 I've added both of these projects to [CodePen](https://codpen.io/tholman), where you can play with, and edit the source.
 

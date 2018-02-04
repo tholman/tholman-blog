@@ -13,7 +13,7 @@ Technically speaking this update isn't really too much of a reach, but is one of
 
 I moved GitHubs infamous [Octocat](https://octodex.github.com/) into the corner, as an SVG, and then seperated its arm in sketch, so I could add some CSS animations to it.
 
-![The github corner in sketch](/images/github-corners-1.png)
+![The github corner in sketch]({{site.url}}/images/github-corners-1.png)
 
 The animation is added with CSS, which means people can use it if they like, but its not going to be mandatory. The animation is added by default on hover, which will allow it to wave.
 
@@ -49,7 +49,7 @@ There are a lot of other advantages to using SVG, over the "original" github rib
 
 From here, I built a little site to offer the code, which was made to deliberately show off some of the colors and options available.
 
-![The github corner in sketch](/images/github-corners-2.png)
+![The github corner in sketch]({{site.url}}/images/github-corners-2.png)
 
 **EDIT:** There's some [great discussion](https://github.com/tholman/github-corners/issues/15) about how to use CSS blend modes, to blend the github corners seamlessly with any background, including those that are not a flat color. Given the future, when blend modes are deeply rooted in the web, or for people not too worried about much older browsers, this is already an awesome option!
 

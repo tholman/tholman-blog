@@ -13,7 +13,7 @@ Over the years, I've amassed a large collection of [clocks and timers](https://c
 
 The theme for the clocks came as a combination of the original circular clock face, but instead using gradients as clock hands. From here, a lot of experimentation and explorations occured, resulting in the 5 "types" of clock.
 
-![A few of the clocks.](/images/abstract-clocks-1.png)
+![A few of the clocks.]({{site.url}}/images/abstract-clocks-1.png)
 
 You can read about how to understand each clock, on this little [web page](tholman.com/abstract-clocks/) ... some of them are a little trickier to get a handle on than the others, but ultimately learnable.
 

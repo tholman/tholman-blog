@@ -13,11 +13,11 @@ When the error is caught, the script strips the page of any elements it may have
 
 It will also spam the crap out of your web console, effectively making it impossible to see what the error was in the first place.
 
-![Blue screen of death](/images/blue-screen-of-death-1.png)
+![Blue screen of death]({{site.url}}/images/blue-screen-of-death-1.png)
 
 And then, naturally, I couldn't help myself but create a "bleu" version.
 
-![Bleu screen of death](/images/blue-screen-of-death-2.png)
+![Bleu screen of death]({{site.url}}/images/blue-screen-of-death-2.png)
 
 **EDIT:** I also ended up using this for my [404 page](http://tholman.com/404).
 
