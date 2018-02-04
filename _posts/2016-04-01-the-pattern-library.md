@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  The Pattern Library
 category: code
 type: serious

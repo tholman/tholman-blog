@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Tetris Pieces
 category: code
 type: serious
@@ -17,7 +17,7 @@ You can read about how the AI works in the post linked above. Here's a snippet a
 
 From this point, I forked the code and set my mind to hacking how the pieces were drawn, so I could have multiple different looks and feels.
 
-![Tetris Pieces, on display.](./images/tetris-pieces-1.png)
+![Tetris Pieces, on display.](/images/tetris-pieces-1.png)
 
 These are, from left to right. 
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Passive Aggressive Password Machine
 category: code
 type: joke
@@ -11,7 +11,7 @@ I always irk a little inside, when a machine tells me something that I've done i
 
 While I absolutely understand why they need to be this way (they're looking out for us!) ... that said, its the jarring interaction that I wanted to focus on. What if they said meaner and meaner things. Thats what this website is all about.
 
-![The passive aggressive password machine](./images/passive-aggressive-passwords-1.png)
+![The passive aggressive password machine](/images/passive-aggressive-passwords-1.png)
 
 This was done in collab with a new friend of mine, [Tobias](http://www.vanschneider.com/), who worked with me on the designs and interactions.
 

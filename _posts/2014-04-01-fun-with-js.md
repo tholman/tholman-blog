@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Having Fun with JS
 category: talk
 type: audio

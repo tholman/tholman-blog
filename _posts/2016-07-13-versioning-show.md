@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  The Versioning Show
 category: code
 type: audio

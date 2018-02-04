@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Shoptalk Show
 category: code
 type: audio

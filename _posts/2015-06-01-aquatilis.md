@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Aquatilis
 category: code
 type: serious
@@ -17,15 +17,15 @@ embark on their own journey of discovery.
 
 The goal of the website was to be visually captivating, yet still get across the message and goals of the expedition.
 
-![Aquatilis](./images/aquatilis-1.png)
+![Aquatilis](/images/aquatilis-1.png)
 
 The photography was so vivid, that it really pushed along the art direction in an incredible way.
 
-![Aquatilis](./images/aquatilis-2.png)
+![Aquatilis](/images/aquatilis-2.png)
 
 There are several pieces of this website, that I found particularly enjoyable to build, and that find a nice way of having a powerful impact, while being subtle and clean.
 
-![Aquatilis](./images/aquatilis-3.png)
+![Aquatilis](/images/aquatilis-3.png)
 
 When building this, the pieces that I felt could be abstracted, and shared with the world, I did! These include [intense images](http://tholman.com/intense-images/), a library to show a clean full screen modal.
 

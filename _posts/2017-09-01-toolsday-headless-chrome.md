@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Toolsday - Headless Chrome
 category: code
 type: audio

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  OK, Get This
 category: serious
 type: serious

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Fun dot CSS
 category: talk
 type: audio

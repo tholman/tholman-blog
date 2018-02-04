@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Console Dot Frog
 category: code
 type: joke

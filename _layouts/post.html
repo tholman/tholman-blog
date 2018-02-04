@@ -5,7 +5,7 @@
 <html>
 
   <head>
-    <title>Tims Curious Creations</title>
+    <title>{{page.title}} ~ Tims Curious Creations</title>
     <meta name="description" content="Welcome to the wide weird world of Tim Holman, this is the stuff he's made, and a little about how it was done.">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,13 +15,13 @@
   <body>
     <section class="wrapper">
       <div class="content">
-        {% include header.html filters="true" %}
-        {{content}}
-        <div class="under-padding"></div>
-
-        <div class="i-dont-know-what-i-expected">
-          <pre>I don't know what you expected.</pre>
-        </div>
+        {% include header.html filters=false %}
+        
+        <article>
+          <h1>{{page.title}}</h1>
+          {{content}}
+        </article>
+        
     </section>
 
     <script type="text/javascript" src="/js/index.js"></script>

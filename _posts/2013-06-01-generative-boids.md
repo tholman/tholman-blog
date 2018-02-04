@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Generative Boids
 category: code
 type: serious
@@ -13,11 +13,11 @@ The brushes work by saving single coordinates on the canvas, and then cross chec
 
 Clicking on the screen with change the "brush", as well as some of the properties of the flocking logic... this means the possible outcomes are pretty much endless.
 
-![Example 1](./images/generative-boids-1.png)
+![Example 1](/images/generative-boids-1.png)
 
-![Example 2](./images/generative-boids-2.png)
+![Example 2](/images/generative-boids-2.png)
 
-![Example 3](./images/generative-boids-3.png)
+![Example 3](/images/generative-boids-3.png)
 
 I really love these clean canvas experiments. Somehow finishing them up feels like I've made something "complete".
 

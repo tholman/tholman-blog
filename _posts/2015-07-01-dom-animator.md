@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  DOM animator
 category: code
 type: serious

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Don't hate the player, hate the game
 category: talk
 type: audio

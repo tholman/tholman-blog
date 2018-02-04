@@ -17,16 +17,18 @@
       <a href="mailto:timothy.w.holman@gmail.com" target="_blank">Email</a>.
     </p>
 
-    <p class="filters">
-      <b>Some filters:</b><br>
-      <label for="serious-checkbox"> Serious Stuff </label>
-      <input id="serious-checkbox" type="checkbox" checked data-type="serious"><br>
-      
-      <label for="joke-checkbox"> Jokey Stuff </label>
-      <input id="joke-checkbox" type="checkbox" checked data-type="joke"><br>
+    {% if include.filters %}
+      <p class="filters">
+        <b>Some filters:</b><br>
+        <label for="serious-checkbox"> Serious Stuff </label>
+        <input id="serious-checkbox" type="checkbox" checked data-type="serious"><br>
+        
+        <label for="joke-checkbox"> Jokey Stuff </label>
+        <input id="joke-checkbox" type="checkbox" checked data-type="joke"><br>
 
-      <label for="audio-checkbox"> Talks & Podcasts </label>
-      <input id="audio-checkbox" type="checkbox" checked data-type="audio">
-    </p>
+        <label for="audio-checkbox"> Talks & Podcasts </label>
+        <input id="audio-checkbox" type="checkbox" checked data-type="audio">
+      </p>
+    {% endif %}
   </div>
 </header>
