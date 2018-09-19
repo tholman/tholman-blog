@@ -23,7 +23,7 @@ The tutorials are where the magic really happens, as you scroll through the post
 
 This means that as you're reading the post, you can scroll back and forth between code examples and see the difference and steps. This helps build a much stronger understanding about the code thats heading into the editor, and can hopefully help to foster a better learning process.
 
-Tutorial Markdown is still in the works, but I'll be sure to update this post when its ready!
+**Edit:** Tutorial markdown is now [open sourced]({{site.url}}/post/tutorial-markdown/), for those looking to build something similar
 
 ➶ [Generative Artistry](http://generativeartistry.com)<br>
 ➶ [Generative Artistry on GitHub](https://github.com/tholman/generative-artistry)
