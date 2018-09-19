@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  wowen wilson
+title:  Wowen Wilson
 category: code
 type: joke
 ---
