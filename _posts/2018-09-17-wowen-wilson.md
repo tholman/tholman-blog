@@ -21,4 +21,4 @@ We got pretty good at it by the end, even scoring a perfect 10/10.
 
 Although that said, having built it gives you a bit of an advantage. Check it out on the link below.
 
-➶ [Play Wowen Wilson](https://wowenwilsonquiz.com)
+➶ [Play Wowen Wilson](http://wowenwilsonquiz.com)
