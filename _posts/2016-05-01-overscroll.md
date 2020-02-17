@@ -21,5 +21,7 @@ And on the top.
 
 **EDIT 2:** Chrome 58 has brought this back, woo!
 
+**EDIT 3:** Chrome 60+ this was taken away again. RIP.
+
 ➶ [Overscroll site/demo](http://tholman.com/overscroll/)<br>
 ➶ [Overscroll source on GitHub](https://github.com/tholman/overscroll)

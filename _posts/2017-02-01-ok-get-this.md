@@ -5,6 +5,8 @@ category: serious
 type: serious
 ---
 
+**EDIT:** Sadly, Bumpers.fm shut down, and I ended the project with that. Was fun though!
+
 *Things you probably didn't know about, in 5 minutes or less!*
 
 I recently "bumped" into [bumpers.fm](http://bumpers.fm), a cool little app for recording small audio casts. I figured why not, and so "[OK, Get This](http://bumpers.fm/ok)" was born.
@@ -15,9 +17,4 @@ For example, The Emu Wars in Australia, or the history of tug-o-war fatalities, 
 
 The individual episodes are also embeddable, which is cool, and make for nice little sharable snippets.
 
-<iframe width="100%" height="180px" frameBorder="0" src="https://bumpers.fm/_/embed/b3r1aqeom1eg010sihr0?isInline=true"></iframe>
-
-**EDIT:** I've began exploring [anchor.fm](https://anchor.fm/ok) as another possible outlet for new episodes. In the app there are saved "episodes", though it doesn't seem like the website offers it yet.
-
-➶ [OK, Get This on Bumpers](https://bumpers.fm/ok)<br>
-➶ [OK, Get This on Anchor](https://anchor.fm/ok)
+➶ [OK, Get This on Bumpers](https://bumpers.fm/ok)
