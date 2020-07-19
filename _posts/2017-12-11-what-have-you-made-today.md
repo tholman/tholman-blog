@@ -11,7 +11,7 @@ The idea of this little project was to build something that replaced the default
 
 All I really wanted was a simple speed dial, and some motivational text. So thats what I did!
 
-![The extension in action]({{site.url}}/images/what-have-you-made-today-1.png)
+![The extension in action](/images/what-have-you-made-today-1.png)
 
 One pleasant surprise, was that the FireFox addon's use exactly the same api's as Chrome, and that there is a [whole documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) amongst browsers, about how to implement said extensions. Yay for standards!
 

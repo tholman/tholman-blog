@@ -11,7 +11,7 @@ In season x, episode y of Rick and Morty, there's a particular scene where Jerry
 
 I fired up ole Garage Band and had a go at [re-creating it](https://soundcloud.com/twholman/sets/driving-home-with-human-music), and a few more inspired versions.
 
-![Its a thing of beauty]({{site.url}}/images/human-music-1.png)
+![Its a thing of beauty](/images/human-music-1.png)
 
 All up, I made 7 or so "human music" pieces, and wacked them together into an album for my soundcloud debut!
 

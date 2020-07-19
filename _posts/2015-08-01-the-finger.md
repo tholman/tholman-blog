@@ -9,7 +9,7 @@ type: joke
 
 A little quick collab with my friend [Guy Trefler](https://www.guytrefler.com/).
 
-![The finger, thats it]({{site.url}}/images/the-finger-1.png)
+![The finger, thats it](/images/the-finger-1.png)
 
 Actually I lied, there are some cool tricks here! I always say you can learn something even from the most simple projects, and "The Finger" is no exception.
 

@@ -15,7 +15,7 @@ Technology wise, its all vanilla JavaScript, and a single MP4 audio file. The tr
 
 Naturally, I built a small web page to show it off as well... although you should probably visit the [site](http://tholman.com/elevator.js/) to actually see it in action.
 
-![Elevator.js Website]({{site.url}}/images/elevator-js-1.png)
+![Elevator.js Website](/images/elevator-js-1.png)
 
 The library was built to be able to take in any music file, so its pretty malliable. In the time the library has been out, I've spotted it on a lot of websites, including one for Google IO.
 

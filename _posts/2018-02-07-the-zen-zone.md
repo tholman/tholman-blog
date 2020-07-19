@@ -15,15 +15,15 @@ I set out to build a few simple "games" that would keep me captivated, and went 
 
 The Switches game is inspired by... well, every day switching on the lights. As well as that little satisfaction you can get when animating things nicely in code.
 
-![The Switches Game.]({{site.url}}/images/the-zen-zone-1.png)
+![The Switches Game.](/images/the-zen-zone-1.png)
 
 The Swirl game has been inspired by the Japanese zen gardens, of which monks would focus on to help clear the mind.
 
-![The Swirl Game.]({{site.url}}/images/the-zen-zone-2.png)
+![The Swirl Game.](/images/the-zen-zone-2.png)
 
 The Break game was inspired by the general nature and make-up of all things. Everything can be broken down into smaller and smaller pieces.
 
-![The Break Game.]({{site.url}}/images/the-zen-zone-3.png)
+![The Break Game.](/images/the-zen-zone-3.png)
 
 The games are stitched together in a way that makes me feel like I can expand upon these games easily, add more to the platform, and grow it out when I feel. 
 

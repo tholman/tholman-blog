@@ -11,7 +11,7 @@ While I was stuck indoors during hurricane Sandy, in 2015, I went down a strange
 
 I gathered as many of these sites as I could, and put them all into a small website, which I called [The Useless Web](http://www.theuselessweb.com/).
 
-![The Useless Web]({{site.url}}/images/the-useless-web-1.png)
+![The Useless Web](/images/the-useless-web-1.png)
 
 It was through this simplicity that the website gained popularity, hundreds of thousand visitors a month!
 

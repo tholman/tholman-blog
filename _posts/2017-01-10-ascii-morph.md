@@ -9,7 +9,7 @@ type: serious
 
 AsciiMorph is a small JS library designed to transition between two ascii images for an old website of mine.
 
-![Ascii morph, transitioning images]({{site.url}}/images/ascii-morph-1.gif)
+![Ascii morph, transitioning images](/images/ascii-morph-1.gif)
 
 The library counts the spaces around the "image" and then systematically collapses it from the outside inwards. 
 

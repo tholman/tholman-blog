@@ -13,7 +13,7 @@ I've decided to do a revival, with a little longer format of the posts. Partiall
 
 The refresh also has come with a fresh redesign, to accommodate the longer format of writing.
 
-![The website itself]({{site.url}}/images/inspiring-online-two.png)
+![The website itself](/images/inspiring-online-two.png)
 
 I've rebuilt the code from scratch, moving it from jekyll to hugo, which is a lot faster. And hosted it on Netlify, for quick and easy deployment.
 

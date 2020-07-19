@@ -13,7 +13,7 @@ That said, it was still something that I wanted to replicate on the web, using [
 
 I also went ahead and added the ability to customize the notes, and share the individual creations with others via url parameters. 
 
-![The binary music player]({{site.url}}/images/binary-music-player-1.png)
+![The binary music player](/images/binary-music-player-1.png)
 
 There wasn't really any need to use a framework (other than Tone.JS of course), so its all relatively vanilla JavaScript, so if you take a peek at the code, it shouldn't be too insane. 
 

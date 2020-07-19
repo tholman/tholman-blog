@@ -9,7 +9,7 @@ type: serious
 
 The [Intense Images](http://tholman.com/intense-images/) library came out as part of the [Aquatilis](http://aquatilis.tv/aquatilis-expedition/) project. It allows you to click on images, and experience them within the full browser window, with little to no overhead.
 
-![Intense images in action]({{site.url}}/images/intense-images-1.png)
+![Intense images in action](/images/intense-images-1.png)
 
 You can see it active in the image above, but I really recommend checking out the live demo, to get the full experience.
 

@@ -11,7 +11,7 @@ This blog was a fun little one to create, the aim of giving myself a simple area
 
 The design was a fairly simple [isotope](https://isotope.metafizzy.co/) layout (thanks Dave!), and dark color scheme... really, the content speaks for itself.
 
-![The website itself]({{site.url}}/images/inspiring-online-1.png)
+![The website itself](/images/inspiring-online-1.png)
 
 This is the kind of project that grows slowly, but always has a place in my day-to-day life... fixing bugs/helping new contributors/adding new sites.
 
