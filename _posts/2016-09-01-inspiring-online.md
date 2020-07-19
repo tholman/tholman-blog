@@ -17,6 +17,8 @@ This is the kind of project that grows slowly, but always has a place in my day-
 
 On the extra nerdy side, I have a [script](https://gist.github.com/tholman/6bc63a150f218bd3b001c6c8ad70e80e) that I use to add posts from the command line. This creates the new post file, setting the date, and linking the image files needed to add a new post. Its not really needed, but means that I can create a new post without opening the text editor, or manually moving images around.
 
+**Edit:** Inspiring Online is now [The Indie Web](https://theindieweb.com)
+
 ➶ [Inspiring Online website](http://inspiring.online)<br>
-➶ [Inspiring Online source on Github](https://github.com/tholman/inspiring-online)
+➶ [Inspiring Online source on Github](https://github.com/tholman/theindieweb)
 

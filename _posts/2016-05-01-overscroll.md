@@ -11,11 +11,11 @@ In this instance, I found that if you are tracking the scroll position with an e
 
 Once I found this out, it was a matter of wiring up some functionality to them. I went with a small easter egg.
 
-![Ascii morph, transitioning images](/images/overscroll-1.png)
+![Overscroll in action](/images/overscroll-1.png)
 
 And on the top.
 
-![Ascii morph, transitioning images](/images/overscroll-2.png)
+![Overscroll in action](/images/overscroll-2.png)
 
 **EDIT:** Looks like of chrome 51, this doesn't work... leaving us only with safari.
 

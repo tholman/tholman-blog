@@ -17,5 +17,7 @@ The refresh also has come with a fresh redesign, to accommodate the longer forma
 
 I've rebuilt the code from scratch, moving it from jekyll to hugo, which is a lot faster. And hosted it on Netlify, for quick and easy deployment.
 
+**Edit:** After this initial rebrand, I've done a larger, weirder one. Inspiring Online is now [The Indie Web](https://theindieweb.com).
+
 ➶ [Inspiring Online website](http://inspiring.online)  
-➶ [Inspiring Online source on Github](https://github.com/tholman/inspiring-online)
+➶ [Inspiring Online source on Github](https://github.com/tholman/theindieweb)
